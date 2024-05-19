@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Mando-03)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mando-03&label=Profile%20views&color=0e75b6&style=flat" alt="Mando-03" /> </p>
 <!--
 **Mando-03/Mando-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
