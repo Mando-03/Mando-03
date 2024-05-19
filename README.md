@@ -3,12 +3,12 @@
 <h3 align="center"> Machine Learning Engineer</h3> <br>
 
 
-I am a Machine Learning Engineer fueled by a passion for unlocking the power of data. I excel in crafting intelligent systems that leverage Natural Language Processing (NLP), Computer Vision (CV), and a broad Machine Learning toolkit with skills to turn these solutions into reality
+Machine Learning Engineer fueled by a passion for unlocking the power of data. I excel in crafting intelligent systems that leverage Natural Language Processing (NLP), Computer Vision (CV), and a broad Machine Learning toolkit with skills to turn these solutions into reality
 
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=300&color=8CC84B&center=true&vCenter=true&width=600&height=100&lines=Machine+Learning+Engineer;NLP+Engineer;Computer+Vision+Engineer;Data+Scientist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=300&color=8CC84B&center=true&vCenter=true&width=600&height=100&lines=Machine+Learning+Engineer;Computer+Vision+Engineer;NLP+Engineer;Data+Scientist" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
