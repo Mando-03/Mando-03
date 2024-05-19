@@ -2,11 +2,11 @@
 I am a Machine Learning Engineer fueled by a passion for unlocking the power of data. I excel in crafting intelligent systems that leverage Natural Language Processing (NLP), Computer Vision (CV), and a broad Machine Learning toolkit with skills to turn these solutions into reality
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mandor-a503a0244/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BNCdgyFifT32vxJvSaSwL7g%3D%3D)
 
+##  🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mandor-a503a0244/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BNCdgyFifT32vxJvSaSwL7g%3D%3D)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mohamedmandor7d3)
-
 
     
 # 💻 Tech Stack:
