@@ -1,8 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Mando-03)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mando-03&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ### About Me:   
 I am a Machine Learning Engineer fueled by a passion for unlocking the power of data. I excel in crafting intelligent systems that leverage Natural Language Processing (NLP), Computer Vision (CV), and a broad Machine Learning toolkit with skills to turn these solutions into reality
 
@@ -16,7 +13,7 @@ I am a Machine Learning Engineer fueled by a passion for unlocking the power of 
 ![Pandas](https://img.shields.io/badge/pandas-%20D8BFD8?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%2CA3431?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/seaborn-%2CBFDB7?style=for-the-badge&logo=seaborn&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit-learn-%29007FFF?style=for-the-badge&logo=scikit&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%29FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%29EE82EE?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%2EFA7817?style=for-the-badge&logo=pytorch&logoColor=orange)
