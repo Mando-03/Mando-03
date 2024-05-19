@@ -12,7 +12,7 @@ I am a Machine Learning Engineer fueled by a passion for unlocking the power of 
 <div>
 
 ### Languages:
-| Python3 | C++ |
+| Python | C++ |
 |----------|----------|----------|-----|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
-|<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C" width="55" height="55"/> |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C" width="55" height="55"/> |
