@@ -11,7 +11,7 @@ I am a Machine Learning Engineer fueled by a passion for unlocking the power of 
 ![C++](https://img.shields.io/badge/C++-%233776AB?style=for-the-badge&logo=cplusplus&logoColor=F3581A)
 ![NumPy](https://img.shields.io/badge/numpy-%29CD6400?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%20D8BFD8?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-%2CA3431?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Matplotlib](https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg)
 ![Seaborn](https://img.shields.io/badge/seaborn-%2CBFDB7?style=for-the-badge&logo=seaborn&logoColor=white)
 ![scikit-learn](https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%29FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white)
