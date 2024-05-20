@@ -24,8 +24,7 @@ I'm fueled by a passion for unlocking the power of data. I excel in crafting int
 ##  🌐 Socials<span style="display: inline-block;">
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-mandor-a503a0244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Mandor" height="30" width="40" /></a>
-<a href="https://medium.com/@mohamedmandor7d3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-
+<a href="https://medium.com/@mohamedmandor7d3" target="blank"><img align="center" src="https://www.svgrepo.com/svg/354057/medium-icong" alt="Medium" height="30" width="40" /></a>
 <a href="https://discord.com/users/760220616824455248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mohamed Mandor" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/mohamedmandor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mohamedmandor" height="30" width="40" /></a>
 </p>
