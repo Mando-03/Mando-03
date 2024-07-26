@@ -5,7 +5,7 @@ I'm fueled by a passion for unlocking the power of data. I excel in crafting int
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=900&color=8CC84B&center=true&vCenter=true&width=600&height=100&lines=Data+Scientist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=10&size=25&pause=900&color=8CC84B&center=true&vCenter=true&width=600&height=100&lines=Data+Scientist" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
