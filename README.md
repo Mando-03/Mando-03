@@ -12,6 +12,8 @@ I'm fueled by a passion for unlocking the power of data. I excel in crafting int
   <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; font-size: 16px; color: #6C757D;"></span>
 </p>
 
+<img align="right" alt="Coding" src="https://camo.githubusercontent.com/b8656e29c28e1bd0f3bc0d1e46cd9f1aefe4ba57f7dc543097789a410dd225de/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65652f65642f65322f65656564653232393134376562303533666538363365663163633766616630622e676966" data-canonical-src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 ## 🌐 Socials
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-mandor-a503a0244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Mandor" height="30" width="40" /></a>
