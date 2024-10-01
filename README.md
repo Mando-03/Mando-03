@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Mohamed Mandor</h1>
 <h3 align="center"> Machine Learning Engineer</h3> <br>
 
-I'm fueled by a passion for unlocking the power of data. I excel in crafting intelligent systems that leverage Natural Language Processing (NLP), Computer Vision (CV), and a broad Machine Learning toolkit with skills to turn these solutions into reality
+I'm fueled by a passion for unlocking the power of data. I excel in crafting intelligent systems that leverage Natural Language Processing (NLP), Computer Vision (CV), and a broad Machine Learning toolkit with skills to turn these solutions into reality.
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -12,15 +12,13 @@ I'm fueled by a passion for unlocking the power of data. I excel in crafting int
   <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; font-size: 16px; color: #6C757D;"></span>
 </p>
 
-
-##  🌐 Socials<span style="display: inline-block;">
+## 🌐 Socials
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-mandor-a503a0244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Mandor" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/mohamedmandor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamedmandor" height="30" width="40" /></a>
 <a href="https://medium.com/@mohamedmandor7d3" target="blank"><img align="center" src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/01_Black/SVG/Medium-Symbol-Black-RGB.svg" alt="Mohamed Mandor" height="30" width="40" /></a>  
 <a href="https://discord.com/users/760220616824455248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mohamed Mandor" height="30" width="40" /></a>
 </p>
-
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
