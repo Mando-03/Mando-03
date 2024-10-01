@@ -21,11 +21,10 @@ I'm fueled by a passion for unlocking the power of data. I excel in crafting int
 <a href="https://discord.com/users/760220616824455248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mohamed Mandor" height="30" width="40" /></a>
 </p>
 
-
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Python](https://camo.githubusercontent.com/b1eab29ab97f3cf241292f25d378a7459ca4abd002be3167a51f9eb20df10c38/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53706143792d3030303030303f7374796c653d666c6174266c6f676f3d7370616379266c6f676f436f6c6f723d7768697465)
+![MySQL](https://camo.githubusercontent.com/ba36398e51b84ebbeb029b4d27e407c400c1b5f7fc5eee872e3ac9ae9041b9f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466173744150492d3030393638383f7374796c653d666c6174266c6f676f3d66617374617069266c6f676f436f6c6f723d7768697465)
+![Pandas](https://camo.githubusercontent.com/d1ffeeee7dcd14372808dcb0d26c066ada24db76116b553809b53be121a3ad3e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5079546f7263682d4545344332433f7374796c653d666c6174266c6f676f3d7079746f726368266c6f676f436f6c6f723d7768697465)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -42,4 +41,7 @@ I'm fueled by a passion for unlocking the power of data. I excel in crafting int
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+ite)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
