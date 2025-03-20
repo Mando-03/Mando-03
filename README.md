@@ -5,12 +5,13 @@ I'm fueled by a passion for unlocking the power of data. I excel in crafting int
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=10&size=25&pause=900&color=8CC84B&center=true&vCenter=true&width=600&height=100&lines=Machine+Learning+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=10&size=25&pause=10&color=8CC84B&center=true&vCenter=true&width=600&height=100&lines=Machine+Learning+Engineer;NLP+Engineer;AI+Engineer;Computer+Vision+Engineer" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
   <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; font-size: 16px; color: #6C757D;"></span>
 </p>
+
 
 
 ## 🌐 Socials
