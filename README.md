@@ -29,7 +29,7 @@ I'm fueled by a passion for unlocking the power of data. I excel in crafting int
 ![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Model Context Control](https://img.shields.io/badge/Model%20Context%20Control-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Model Context Protocol](https://img.shields.io/badge/Model%20Context%20Protocol-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-%230C7BDC.svg?style=for-the-badge&logo=seaborn&logoColor=white)
